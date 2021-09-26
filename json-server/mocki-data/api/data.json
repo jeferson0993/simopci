@@ -20,6 +20,22 @@
             "id": 1,
             "mac": "CA:F7:44:DE:EB:E1",
             "data": {
+                "temperature": 28,
+                "humidity": 35,
+                "shadow": false,
+                "geo": {
+                    "latitude": -10.175949,
+                    "longitude": -48.328428
+                },
+                "status": true,
+                "battery": 3004
+            },
+            "timestamp": "2021-09-21T18:36:57.229115"
+        },
+        {
+            "id": 2,
+            "mac": "DE:EB:E1:CA:F7:44",
+            "data": {
                 "temperature": 0,
                 "humidity": 0,
                 "shadow": false,
@@ -78,14 +94,14 @@
                     "id": 0,
                     "mac": "CA:F7:44:DE:EB:E1",
                     "data": {
-                        "temperature": 0,
-                        "humidity": 0,
+                        "temperature": 28,
+                        "humidity": 35,
                         "shadow": false,
                         "geo": {
-                            "latitude": 0,
-                            "longitude": 0
+                            "latitude": -10.175949,
+                            "longitude": -48.328428
                         },
-                        "status": false
+                        "status": true
                     },
                     "timestamp": "2021-09-21T18:36:57.229115"
                 }
