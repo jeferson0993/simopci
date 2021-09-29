@@ -1,0 +1,60 @@
+{ "data" : [
+  {
+            "id":0,
+            "F4:A5:74:89:16:57": [
+                {
+                    "id": 0,
+                    "mac": "F4:A5:74:89:16:57",
+                    "data": {
+                        "humidity": 46.5,
+                        "temperature": 24.35,
+                        "shadow": false,
+                        "geo": {
+                            "latitude": 1234,
+                            "longitude": -1234
+                        },
+                        "status": true,
+                        "battery": 2887
+                    },
+                    "timestamp": "2021-09-21T18:36:56.044941"
+                },
+                {
+                    "id": 1,
+                    "mac": "F4:A5:74:89:16:57",
+                    "data": {
+                        "humidity": 46.5,
+                        "temperature": 24.36,
+                        "shadow": false,
+                        "geo": {
+                            "latitude": 1234,
+                            "longitude": -1234
+                        },
+                        "status": true,
+                        "battery": 2893
+                    },
+                    "timestamp": "2021-09-21T18:36:56.547306"
+                }
+            ]
+        },
+        {
+            "id":1,
+            "CA:F7:44:DE:EB:E1": [
+                {
+                    "id": 0,
+                    "mac": "CA:F7:44:DE:EB:E1",
+                    "data": {
+                        "temperature": 28,
+                        "humidity": 35,
+                        "shadow": false,
+                        "geo": {
+                            "latitude": -10.175949,
+                            "longitude": -48.328428
+                        },
+                        "status": true
+                    },
+                    "timestamp": "2021-09-21T18:36:57.229115"
+                }
+            ]
+   }
+  ]
+}
