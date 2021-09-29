@@ -1,0 +1,36 @@
+{
+    "sensors": [
+        {
+            "id": 0,
+            "mac": "F4:A5:74:89:16:57",
+            "data": {
+                "humidity": 24.36,
+                "temperature": 46.5,
+                "shadow": false,
+                "geo": {
+                    "latitude": -10.211206,
+                    "longitude": -48.319715
+                },
+                "status": true,
+                "battery": 2893
+            },
+            "timestamp": "2021-09-21T18:36:56.547306"
+        },
+        {
+            "id": 1,
+            "mac": "CA:F7:44:DE:EB:E1",
+            "data": {
+                "temperature": 0,
+                "humidity": 0,
+                "shadow": false,
+                "geo": {
+                    "latitude": 0,
+                    "longitude": 0
+                },
+                "status": false,
+                "battery": 0
+            },
+            "timestamp": "2021-09-21T18:36:57.229115"
+        }
+    ]
+}
